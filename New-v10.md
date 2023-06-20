@@ -1,47 +1,24 @@
 {
-
-"Title": "⚠️ خبر بسیار مهم ⚠️",
-
-"Description": "● به مناسبت تولد ادمین سازنده فیلترشکن به مدت 2 ساعت ورود به کانال VIP کسب درآمد  رایگانه پس سرییییع عضو شو 👇🏻",
-
-"Link": "tg://join?invite=_DgE7FWXQ8llMTVk",
-
-"ColorWave": "#00E5FF",
-
-"Color": "#00E5FF",
-
-"ColorWaveTwo": "#00B8D4",
-
+"Title": "آینده دلار و اقتصاد ایران !",
+"Description" : "- اگه میخوای قیمت از داستان پشت پرده کاهش دلار و تورم قیمت خودرو یا ... زودتر با خبر بشی زودتر عضو کانال شو",
+"Link": "tg://join?invite=nHYi2XCTHjpkMTlk",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
-
 "TitleGravity": "center",
-
-"MessageGravity": "right",
-
+"MessageGravity": "center",
 "ColorMessage": "#ff323232",
-
 "ColorTitle": "#ff111111",
-
 "ColorBtn": "#ffffff",
-
 "ColorBtnBg": "#00a043",
-
 "ColorBtnCancell": "#ffffff",
-
 "ColorBtnCancellBg": "#e90000",
-
 "Cancellable": "false",
-
-"MessageID": "7432279",
-
-"ShowTime": "2",
-
-"Button": "  عضویت فوری   ",
-
-"ButtonCancell": "",
-
+"MessageID": "19300013",
+"ShowTime": "3",
+"Button": "  عضویت در کانال Vip  ",
+"ButtonCancell": " بعدا ",
 "Closure": "true",
-
 "Show": "on"
-
 }
